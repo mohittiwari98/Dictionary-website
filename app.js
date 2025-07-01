@@ -1,4 +1,4 @@
-//javascript fil
+//javascript file
 const form = document.querySelector('form');
 const resultDiv = document.querySelector('.result');
 /*use api for deep informations*/
