@@ -1,5 +1,5 @@
 //javascript file
-//const form and result p
+//const form and result pa
 const form = document.querySelector('form');
 const resultDiv = document.querySelector('.result');
 /*use api for deep informations*/
