@@ -8,7 +8,7 @@ form.addEventListener("submit",(e)=>{
     getWordInfo(form.elements[0].value);
 });
 /*js file*/
-
+//
 const getWordInfo = async (word) =>{
     try{
         resultDiv.innerHTML = "Fetching the Word information , please wait"
